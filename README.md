@@ -5,7 +5,7 @@ Welcome to my GitHub! I am an aspiring CTF (Capture The Flag) player passionate 
 
 I’m a dedicated CTF player and cybersecurity enthusiast with a keen interest in various domains of ethical hacking I thrive on problem-solving especially in the areas of reverse engineering, binary exploitation and web security I’m always eager to expand my knowledge tackle new challenges and engage with the global CTF community.
 
-# 🪪| Skills & Areas of Expertise
+# 🪪 | Skills & Areas of Expertise
 
 
 - **Binary Exploitation**: Finding vulnerabilities and exploiting them in compiled programs
