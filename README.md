@@ -14,9 +14,9 @@ I’m a dedicated CTF player and cybersecurity enthusiast with a keen interest i
 - **Forensics**: Investigating digital artifacts to extract useful information
 - **Networking**: Understanding network protocols and performing network-based attacks
   
-# CTF Competitions
+# CTF Challenges
 
-I actively participate in various CTF competitions, and here are some platforms where I spend most of my time:
+I actively participate in various CTF Challenges, and here are some platforms where I spend most of my time:
 
 - https://tryhackme.com/p/Nothingfsociety
 
