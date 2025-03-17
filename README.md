@@ -22,6 +22,6 @@ I actively participate in various CTF Challenges, and here are some platforms wh
 
 # 🎉 | Achievements 
 
-- **Top 1 Worldwide** (Monthly CTF Rankings)
-- **Top 1 in Kuwait** (Monthly CTF Rankings)
-- **Top 9 All-Time in Kuwait** (CTF Rankings)
+- **Top 1 Worldwide** (Monthly THM Rankings)
+- **Top 1 in Kuwait** (Monthly THM Rankings)
+- **Top 9 All-Time in Kuwait** (THM Rankings)
